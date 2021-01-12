@@ -10,3 +10,9 @@ A: Proportionate
 Q: What mathematical function would we use to model the spread of a pandemic or epidemic?
 
 A: Exponential
+
+
+# Task 3 - Data Collection & Visualization
+Q: What are the total number of cases on 04/03/2020?
+
+A: 31.00 (Solution in file - Task3.py)

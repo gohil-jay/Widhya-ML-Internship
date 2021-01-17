@@ -16,6 +16,8 @@ Q: What are the total number of cases on 04/03/2020?
 
 A: 31.00 (Solution in file - Task3.py)
 
+![Task 3 PNG](https://raw.githubusercontent.com/gohil-jay/Machine-Learning/main/Week-1/Task3.png?raw=true)
+
 # Task 4 - Model the Solution
 Q: Use the computed r in the formula to make the forecase and find P_t. Take your P_o = 31 and t = 26 (the total number of cases on 4th March). Round off to the nearest integer value.
 

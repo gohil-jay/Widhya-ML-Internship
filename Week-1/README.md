@@ -22,3 +22,5 @@ A: 31.00 (Solution in file - Task3.py)
 Q: Use the computed r in the formula to make the forecase and find P_t. Take your P_o = 31 and t = 26 (the total number of cases on 4th March). Round off to the nearest integer value.
 
 A: P_t = 324.58 [r = 0.14814803793984233] (Solution in file - Task4.py)
+
+![Task 4 PNG](https://raw.githubusercontent.com/gohil-jay/Machine-Learning/main/Week-1/Task4.png?raw=true)

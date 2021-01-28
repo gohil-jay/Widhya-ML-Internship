@@ -1,4 +1,4 @@
-# Week-1
+# COVID-19 Analysis (Quantitative Modeling)
 The task for week one is to perform exploratory analysis on provided COVID-19 dataset (CSV file) of India, containing details like date, number od cases (in 4 columns) and state of origin.
 
 # Task 1 - Introduction to Quantitative Modelling

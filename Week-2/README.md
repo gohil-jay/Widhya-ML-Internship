@@ -20,3 +20,8 @@ A: 36221 (solution in file - Task3.py)
 Q: How will you fit the method if 'clf is the instance for the DecisionTreeClassifier algorithm and 'x train' and y train' are training samples. Write the exact code statement.
 
 A: clf.fir(x train,y_train) (solution in file - Task4.py)
+
+# Task 5 - Model Prediction
+Q: What is the ROC - AUC score of your model?
+
+A: 99 [0.9981425213659479] (solution in file - Task5.py)

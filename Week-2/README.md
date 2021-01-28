@@ -5,3 +5,8 @@ The task for week two is to perform ML prediction on Kaggle dataset on flights t
 Q: How many flights got diverted in the sample dataset?
 
 A: 224
+
+# Task 2 - Exploratory Data Analysis
+Q: Which feature shows a perfect correlation wit 'ARRIVAL_DELAY'?
+
+A: 'DEPARTURE_DELAY'

@@ -15,3 +15,8 @@ A: 'DEPARTURE_DELAY' (solution in file - Task2.py)
 Q: How many flights got delayed by more than 15 minutes of 'ARRIVAL_TIME'?
 
 A: 36221 (solution in file - Task3.py)
+
+# Task 4 - Model Creation
+Q: How will you fit the method if 'clf is the instance for the DecisionTreeClassifier algorithm and 'x train' and y train' are training samples. Write the exact code statement.
+
+A: clf.fir(x train,y_train) (solution in file - Task4.py)

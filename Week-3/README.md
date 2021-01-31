@@ -10,3 +10,8 @@ A: Numbers
 Q: What is the output variable in the dataset?
 
 A: Likes
+
+# Task 3 - Build your ML model
+Q: Which function do you use to split your dataset in sklearn?
+
+A: train_test_split

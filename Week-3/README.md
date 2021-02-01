@@ -15,3 +15,8 @@ A: Likes
 Q: Which function do you use to split your dataset in sklearn?
 
 A: train_test_split
+
+# Task 4 - Make Predictions
+Q: What is the final MSE value that your model computed?
+
+A: 108.64 (108.63581186362067) [solution in file - task.py]

@@ -6,3 +6,8 @@ The aim for this week's task is to make an ML model based on Linear Regression t
 Q: How many features (columns) are there in the given dataset?
 
 A: 12
+
+# Task 2 - Data Manipulation & Feature Engineering
+Q: Which symbol is used forfrom shift method in the current scenario (+ or -)?
+
+A: -

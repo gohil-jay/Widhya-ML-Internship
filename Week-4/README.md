@@ -11,3 +11,8 @@ A: 12
 Q: Which symbol is used forfrom shift method in the current scenario (+ or -)?
 
 A: -
+
+# Task 3 - Build and train your ML model
+Q: What is the name of the class in which linear regression classifier is present in sklearn?
+
+A: LinearRegression

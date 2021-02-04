@@ -16,3 +16,8 @@ A: -
 Q: What is the name of the class in which linear regression classifier is present in sklearn?
 
 A: LinearRegression
+
+# Task 4 - Test your model
+Q: What is the MSE of your model?
+
+A: 1.600826094253702

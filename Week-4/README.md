@@ -21,3 +21,8 @@ A: LinearRegression
 Q: What is the MSE of your model?
 
 A: 1.600826094253702
+
+# Knowledge Evaluation
+Q: Which evaluation metric is better to be used to evaluate a model while modelling a continuous output variable?
+
+A: MSE

@@ -30,3 +30,7 @@ A: MSE
 Q: What is the method to convert a dataframe to numpy array?
 
 A: to_numpy
+
+Q: What kind of data is used in classification problems in ML?
+
+A: Categorical Data

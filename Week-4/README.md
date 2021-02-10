@@ -26,3 +26,7 @@ A: 1.600826094253702
 Q: Which evaluation metric is better to be used to evaluate a model while modelling a continuous output variable?
 
 A: MSE
+
+Q: What is the method to convert a dataframe to numpy array?
+
+A: to_numpy

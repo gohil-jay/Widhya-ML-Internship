@@ -34,3 +34,7 @@ A: to_numpy
 Q: What kind of data is used in classification problems in ML?
 
 A: Categorical Data
+
+Q: Quandl helps you collecat data related to ?
+
+A: Stock Market

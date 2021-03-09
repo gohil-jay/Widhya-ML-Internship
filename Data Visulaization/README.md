@@ -6,3 +6,8 @@ The aim for this mission  is to perform data visulaization on dataset provided b
 Q: What function can be used to read an excel dataset?
 
 A: read_excel
+
+# Task 2 - Understanding the data
+Q: Which technology has the gighest NANs?
+
+A: AWS

@@ -11,3 +11,8 @@ A: read_excel
 Q: Which technology has the gighest NANs?
 
 A: AWS
+
+# Task 3 - Matplotlib Library
+Q: In a pie chart to display the skills of a particular college, how many labels'parameters are there from the given datset?
+
+A: 8

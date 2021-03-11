@@ -16,3 +16,9 @@ A: AWS
 Q: In a pie chart to display the skills of a particular college, how many labels'parameters are there from the given datset?
 
 A: 8
+
+
+# Task 4 - Plotlly Library
+Q: What is the percentage of NLP in 'Gitam University, Vizag' ?
+
+A: 12.5

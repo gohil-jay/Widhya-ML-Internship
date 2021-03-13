@@ -22,3 +22,14 @@ A: 8
 Q: What is the percentage of NLP in 'Gitam University, Vizag' ?
 
 A: 12.5
+
+
+# Task 5 - Knowledge Evaluation
+
+Q: Which method is used to fill all null values?
+
+A: fillna()
+
+Q: What is the shape of the given dataset?
+
+A: 155,9

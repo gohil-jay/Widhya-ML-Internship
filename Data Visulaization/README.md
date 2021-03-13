@@ -33,3 +33,11 @@ A: fillna()
 Q: What is the shape of the given dataset?
 
 A: 155,9
+
+Q: Are there any duplicates of college in the dataset?
+
+A: Yes
+
+Q: What is the function used to display the names of grouped bars on X-axis?
+
+A: xticks()

@@ -41,3 +41,7 @@ A: Yes
 Q: What is the function used to display the names of grouped bars on X-axis?
 
 A: xticks()
+
+Q: What is the output of dataframe.loc[0][0]?
+
+A: JDIET
